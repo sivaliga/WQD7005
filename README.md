@@ -7,8 +7,8 @@
 2) Python code for web crawling : https://github.com/sivaliga/WQD7005/blob/master/webcrawler_Milestone1.py
 
 3) Output files : 
-https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20United%20Nations%20(2017).csv
-https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20World%20Bank%20(2018).csv
-https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20International%20Monetary%20Fund%20(2019%20estimates).csv
+# https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20United%20Nations%20(2017).csv
+## https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20World%20Bank%20(2018).csv
+### https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20International%20Monetary%20Fund%20(2019%20estimates).csv
 
 4) Video link : 
