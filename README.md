@@ -10,4 +10,4 @@
 4) Output file 2 : https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20World%20Bank%20(2018).csv
 5) Ouput file 3 :  https://github.com/sivaliga/WQD7005/blob/master/Per%20the%20International%20Monetary%20Fund%20(2019%20estimates).csv
 
-6) Video link : 
+6) Video link : https://share.vidyard.com/watch/tQspFDiEp1B2kSkVRXoJmA?
